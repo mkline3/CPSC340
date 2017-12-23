@@ -1,0 +1,39 @@
+Matt Kline
+
+	This program will allow the user to give it the
+	length of a word, and the amount of guesses they
+	would like to use to solve it. The algorithm will
+	then narrow down a list of words until either there
+	is only one word left or the user has run out of guesses.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
